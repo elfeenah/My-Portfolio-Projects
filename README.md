@@ -15,8 +15,8 @@ A self-taught and experienced data scientist with a passion for using data to dr
 
 ## Contact Me
 
-- Email: [youremail@example.com](mailto:nafisaidris413@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nafisa-lawal-idris/)
-- GitHub: [github.com/yourusername](https://github.com/elfeenah)
+- Email: (mailto:nafisaidris413@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/nafisa-lawal-idris/)
+- GitHub: (https://github.com/elfeenah)
 
 Thank you for stopping by and I hope you enjoy my portfolio!
