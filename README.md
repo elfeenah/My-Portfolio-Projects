@@ -18,5 +18,6 @@ A self-taught and experienced data scientist with a passion for using data to dr
 - Email: (mailto:nafisaidris413@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/nafisa-lawal-idris/)
 - GitHub: (https://github.com/elfeenah)
+- Twitter: (https://twitter.com/FeenahNafeesah)
 
 Thank you for stopping by and I hope you enjoy my portfolio!
