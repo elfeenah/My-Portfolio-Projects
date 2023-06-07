@@ -1,4 +1,5 @@
 # My Portfolio Project Repository
+
 Welcome to my portfolio project repository! Here you will find all of the code and queries from my various projects. I hope you find them inspiring and informative.
 
 ## Projects
@@ -15,9 +16,9 @@ A self-taught and experienced data scientist with a passion for using data to dr
 
 ## Contact Me
 
-- Email: (mailto:nafisaidris413@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/nafisa-lawal-idris/)
-- GitHub: (https://github.com/elfeenah)
-- Twitter: (https://twitter.com/FeenahNafeesah)
+- Email: [nafisaidris413@gmail.com](mailto:nafisaidris413@gmail.com)
+- LinkedIn: [Nafisa Lawal Idris](https://www.linkedin.com/in/nafisa-lawal-idris/)
+- GitHub: [elfeenah](https://github.com/elfeenah)
+- Twitter: [FeenahNafeesah](https://twitter.com/FeenahNafeesah)
 
 Thank you for stopping by and I hope you enjoy my portfolio!
