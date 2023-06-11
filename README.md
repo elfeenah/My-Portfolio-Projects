@@ -5,7 +5,7 @@ Welcome to my portfolio project repository! Here you will find all of the code a
 ## Projects
 
 - [Project 1: Employee Attrition Control](https://github.com/elfeenah/Employee-Attrition-Control)
-- [Project 2: Predicting Stock Prices with Machine Learning](https://github.com/yourusername/project2)
+- [Project 2: 911 Call Analysis](https://github.com/elfeenah/911-Call-Analysis)
 - [Project 3: Sentiment Analysis of Twitter Data](https://github.com/yourusername/project3)
 
 Feel free to browse the code and use it as inspiration for your own projects. If you have any questions or feedback, don't hesitate to reach out.
