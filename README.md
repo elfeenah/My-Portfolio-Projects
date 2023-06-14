@@ -21,4 +21,4 @@ A self-taught and experienced data scientist with a passion for using data to dr
 - GitHub: [elfeenah](https://github.com/elfeenah)
 - Twitter: [FeenahNafeesah](https://twitter.com/FeenahNafeesah)
 
-Thank you for stopping by, and I hope you enjoy my portfolio!
+Thank you for stopping by and I hope you enjoy my portfolio!
